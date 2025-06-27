@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Different descriptions for different names
   const nameToDescriptionMap = {
-    abri: "Abri, your creativity and humor light up every room! Thanks for always knowing how to make people smile.",
+    abri: "Abri, Ever since I got to know you, my life has been so much brighter, bro! You bring so much positivity and good vibes - I'm truly grateful to have you as a friend.",
     abrilo:
       "Abrilo, your loyalty and kindness are unmatched. The world is better with you in it!",
     abriham:
